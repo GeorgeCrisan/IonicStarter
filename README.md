@@ -1,1 +1,1 @@
-# IonicStarter Is my boilerplate project
+# IonicStarter Is my boilerplate for future Ionic React projects
